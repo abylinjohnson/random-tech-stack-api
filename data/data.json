@@ -1,0 +1,39 @@
+[
+  {
+    "frontend": [
+      "React",
+      "Angular",
+      "Vue",
+      "Ember",
+      "JQuery",
+      "Sematic-UI",
+      "Backbone.js",
+      "Preact",
+      "svelte",
+      "foundation"
+    ],
+    "backend": [
+      "Django",
+      "Laravel",
+      "Ruby on Rails",
+      "ExpressJS",
+      "CakePHP",
+      "Flask",
+      "Asp.NET",
+      "Spring Boot",
+      "Koa",
+      "Phoenix"
+    ],
+    "database": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Cassendra",
+      "MariaDB",
+      "firebase",
+      "DynamoDB",
+      "Oracle"
+    ]
+  }
+]
